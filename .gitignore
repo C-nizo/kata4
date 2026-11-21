@@ -1,0 +1,25 @@
+# Maven y compilación
+target/
+out/
+build/
+bin/
+*.class
+*.jar
+*.war
+*.zip
+*.exe
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Otros IDE
+.vscode/
+.settings/
+.classpath
+.project
+
+# Sistema operativo
+.DS_Store
